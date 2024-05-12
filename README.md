@@ -1,30 +1,28 @@
 # Super-Store-Sales
-Power Bi Dashboard for Super Store Sales
 
-**1) About:**
-The Super Store Sales Dashboard is a comprehensive analysis tool designed to provide insights into the sales performance of a super store. It covers various key performance indicators (KPIs) such as quantity, sales, profit, and shipping days, while also delving into specific categories, subcategories, and segments of sales. The analysis aims to offer a deep understanding of the store's performance, enabling stakeholders to make informed decisions for improvement and growth.
+**Objective:**
 
+**1.** Key Performance Indicators (KPIs): Quantity 22k, Sales $2m, Profit $175k, and Shipping Days 4.
 
-**2) Objective and Approach:**
-The primary objective of the Super Store Sales Dashboard is to analyze and understand the sales trends, patterns, and behaviors within the super store. To achieve this, the analysis employs a multi-faceted approach:
+**2.** A map illustrating profit and sales distribution by states.
 
-Collection of relevant data: Data regarding sales, quantities, profits, shipping days, product categories, subcategories, shipping modes, payment methods, and geographic locations are collected and organized for analysis.
-Visualization techniques: Various charts, graphs, and maps are used to visualize the data effectively, providing stakeholders with clear insights into the sales performance.
-Forecasting: Utilizing historical data, the analysis attempts to forecast sales trends for the upcoming 15 days, aiding in proactive decision-making.
+**3.** Three bar graphs displaying sales by category (office supplies $0.64m, technology $0.47m, furniture $0.45m), sales by subcategory (phones $0.20m, chairs $0.18m, binders $0.17m), and sales by ship mode (standard class $0.33m, second class $0.1m, first class $0.08m).
 
+**4.** Pie chart representing sales by segment (consumer 48%, corporate 33%, and home office 19%) and sales by payment method (COD 43%, online 35%, cards 22%).
 
-**3) Insights:**
-The Super Store Sales Dashboard yields several valuable insights:
-1) Most purchased products: Phone, chairs, and blinders emerge as the top-selling products, indicating potential areas for marketing focus or inventory management.
-2) Preferred payment methods: Customers predominantly use card, cash-on-delivery (COD), and online payment methods, suggesting the importance of ensuring smooth transactions across these channels.
-3) Regional ordering trends: California, New York, Texas, Washington, Ohio, and Illinois stand out as the top states for ordering, highlighting the importance of catering to the needs and preferences of customers in these regions.
+**5.** Line graph showcasing sales trends by month in 2019 and 2020, with an upward trajectory from January to December. Additionally, profit trends by month in 2019 and 2020, peaking in October and December.
+
+**6.** Bar graph depicting sales by states, with top performers including California ($0.2m to $0.4m), New York ($0.2m), and Texas (slightly less than $0.2m). Other notable states are Washington, Pennsylvania, Ohio, Illinois, Florida, Michigan, and North Carolina.
+
+**7.** Sales forecasting for the next 15 days, represented with green dotted lines and shaded areas.
 
 
-**4) Key Findings:**
-1) Sales Performance: The analysis reveals fluctuations in sales performance across different categories, subcategories, and segments, providing insights into areas of strength and potential improvement.
-2) Profitability: By examining profit margins alongside sales data, the analysis identifies opportunities to optimize profitability through pricing strategies, cost management, and product mix adjustments.
-3) Shipping Efficiency: Insights into shipping days shed light on the efficiency of the logistics and fulfillment processes, highlighting areas where improvements can be made to enhance customer satisfaction and reduce operational costs.
+**Conclusion:**
 
+The analysis of sales data provides valuable insights into revenue generation, profitability, and sales trends. By examining key metrics such as quantity, sales, profit, and shipping days, businesses can identify areas for improvement and strategic decision-making.
 
-**5) Conclusions:**
-The Super Store Sales Dashboard serves as a valuable tool for stakeholders to gain a comprehensive understanding of the super store's sales performance. By leveraging the insights and findings generated through this analysis, stakeholders can formulate strategies to enhance product offerings, streamline operations, optimize pricing, and improve customer experiences, ultimately driving growth and profitability for the super store.
+Visualizations, including maps, bar graphs, pie charts, and line graphs, offer a comprehensive understanding of sales performance across categories, segments, and geographic regions. Notable observations include the dominance of certain product categories and shipping modes, as well as the distribution of sales by segment and payment method.
+
+Moreover, trend analysis reveals consistent growth in sales over time, with notable peaks in profit during specific months. These insights enable businesses to anticipate market trends, optimize resource allocation, and develop effective sales strategies.
+
+Overall, the sales analysis provides a valuable foundation for informed decision-making and strategic planning, empowering businesses to drive sustainable growth and maximize profitability in a competitive market landscape.
