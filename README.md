@@ -1,6 +1,6 @@
 # Super-Store Sales Analysis
 
-## Introduction  
+## Introduction 
 This report provides an in-depth analysis of sales data from a superstore, with a focus on key performance indicators (KPIs) such as quantity sold, total sales, profit, and shipping days. The goal of this analysis is to understand sales trends, identify high-performing product categories, and uncover regional sales patterns to help optimize future business decisions.
 
 The findings derived from this report aim to inform decision-makers about current sales performance, identify growth opportunities, and highlight areas for improvement. By leveraging data visualizations and trend analysis, this report presents actionable insights that can drive sales strategy and enhance profitability.
