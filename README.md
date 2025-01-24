@@ -5,11 +5,9 @@ This report provides an in-depth analysis of sales data from a superstore, with 
 
 The findings derived from this report aim to inform decision-makers about current sales performance, identify growth opportunities, and highlight areas for improvement. By leveraging data visualizations and trend analysis, this report presents actionable insights that can drive sales strategy and enhance profitability.
 
-- Dataset Link [Super Store Sales](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStore_Sales_Dataset.csv)
-
-- Power Bi [Analysis](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStoreSales%20Analysis.jpg)
-
-- Power Bi [Forecasting](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStoreSales%20Analysis%20(2).jpg)
+- Super Store Sales [Dataset](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStore_Sales_Dataset.csv)
+- Super Store Sales [Analysis](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStoreSales%20Analysis.jpg)
+- Super Store Sales [Forecasting](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStoreSales%20Analysis%20(2).jpg)
 
 ## Dataset  
 The dataset used for the analysis contains the following columns, each offering key details about sales transactions:
@@ -41,7 +39,7 @@ The dataset used for the analysis contains the following columns, each offering 
 
 This dataset provides a comprehensive view of the sales, allowing for in-depth analysis across different dimensions such as sales, product categories, shipping methods, and regional performance.
 
-- Dataset Link [Super Store Sales](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStore_Sales_Dataset.csv)
+- Super Store Sales [Dataset](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStore_Sales_Dataset.csv)
 
 ## Excel Dashboard & Prediction Analysis  
 In this analysis, an **Excel Dashboard** has been created to visualize and explore the key metrics and trends. Key visualizations from the objective include:
@@ -86,9 +84,8 @@ In this analysis, an **Excel Dashboard** has been created to visualize and explo
 7. **Sales Forecasting**:
    - A **forecasting graph** predicts sales for the next 15 days, helping the company anticipate demand and plan resources accordingly.
 
-- Power Bi [Analysis](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStoreSales%20Analysis.jpg)
-
-- Power Bi [Forecasting](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStoreSales%20Analysis%20(2).jpg)
+- Super Store Sales [Analysis](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStoreSales%20Analysis.jpg)
+- Super Store Sales [Forecasting](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStoreSales%20Analysis%20(2).jpg)
 
 ## Recommendations  
 Based on the insights drawn from the analysis, the following recommendations are made to further enhance sales performance:
@@ -117,8 +114,6 @@ Based on the insights drawn from the analysis, the following recommendations are
 ## Conclusion  
 The Super-Store Sales analysis reveals several key areas for growth and optimization. By focusing on high-performing product categories, improving shipping efficiency, targeting key customer segments, and utilizing sales forecasting, the business can enhance its profitability and customer satisfaction. The insights generated from this analysis provide a strong foundation for informed decision-making and strategic planning, positioning the company for continued growth in a competitive market.
 
-- Dataset Link [Super Store Sales](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStore_Sales_Dataset.csv)
-
-- Power Bi [Analysis](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStoreSales%20Analysis.jpg)
-
-- Power Bi [Forecasting](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStoreSales%20Analysis%20(2).jpg)
+- Super Store Sales [Dataset](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStore_Sales_Dataset.csv)
+- Super Store Sales [Analysis](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStoreSales%20Analysis.jpg)
+- Super Store Sales [Forecasting](https://github.com/NishaChandila/Super-Store-Sales/blob/main/SuperStoreSales%20Analysis%20(2).jpg)
